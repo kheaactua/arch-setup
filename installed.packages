@@ -5,6 +5,9 @@ git-delta
 gnupg
 net-tools
 python
+python-neovim
+dejagnu
+tree-sitter unibilium msgpack-c luajit libutf8proc libtermkey libluv gperf lua51-mpack lua51-lpeg
 python-virtualenv
 rustup
 stow
@@ -14,3 +17,5 @@ xclip
 zplug
 zsh
 strace
+pass
+nginx
