@@ -10,3 +10,7 @@
 	path = neovim-git
 	url = https://aur.archlinux.org/neovim-git.git
 	branch = master
+[submodule "docker-credential-pass"]
+	path = docker-credential-pass
+	url = https://aur.archlinux.org/docker-credential-pass.git
+	branch = master
