@@ -1,0 +1,12 @@
+[submodule "env-modules"]
+	path = env-modules
+	url = https://aur.archlinux.org/env-modules.git
+	branch = master
+[submodule "libvterm-0.1"]
+	path = libvterm-0.1
+	url = https://aur.archlinux.org/libvterm-0.1.git
+	branch = master
+[submodule "neovim-git"]
+	path = neovim-git
+	url = https://aur.archlinux.org/neovim-git.git
+	branch = master

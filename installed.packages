@@ -1,0 +1,16 @@
+cmake
+docker
+git
+git-delta
+gnupg
+net-tools
+python
+python-virtualenv
+rustup
+stow
+tcl
+tmux
+xclip
+zplug
+zsh
+strace
