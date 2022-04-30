@@ -14,3 +14,6 @@
 	path = docker-credential-pass
 	url = https://aur.archlinux.org/docker-credential-pass.git
 	branch = master
+[submodule "snapd"]
+	path = snapd
+	url = https://aur.archlinux.org/snapd.git

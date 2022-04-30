@@ -19,3 +19,6 @@ zsh
 strace
 pass
 nginx
+bc
+php
+snapd
