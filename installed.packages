@@ -22,3 +22,6 @@ nginx
 bc
 php
 snapd
+zfs-dkms
+zfs-utils
+plex-media-server

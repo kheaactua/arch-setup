@@ -17,3 +17,12 @@
 [submodule "snapd"]
 	path = snapd
 	url = https://aur.archlinux.org/snapd.git
+[submodule "zfs-dkms"]
+	path = zfs-dkms
+	url = https://aur.archlinux.org/zfs-dkms.git
+[submodule "zfs-utils"]
+	path = zfs-utils
+	url = https://aur.archlinux.org/zfs-utils.git
+[submodule "plex-media-server"]
+	path = plex-media-server
+	url = https://aur.archlinux.org/plex-media-server.git
