@@ -26,3 +26,6 @@
 [submodule "plex-media-server"]
 	path = plex-media-server
 	url = https://aur.archlinux.org/plex-media-server.git
+[submodule "filebot"]
+	path = filebot
+	url = https://aur.archlinux.org/filebot.git

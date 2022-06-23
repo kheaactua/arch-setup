@@ -25,3 +25,5 @@ snapd
 zfs-dkms
 zfs-utils
 plex-media-server
+filebot
+jre11-openjdk
