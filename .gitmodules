@@ -29,3 +29,9 @@
 [submodule "filebot"]
 	path = filebot
 	url = https://aur.archlinux.org/filebot.git
+[submodule "nvidia-470xx-utils"]
+	path = nvidia-470xx-utils
+	url = https://aur.archlinux.org/nvidia-470xx-utils.git
+[submodule "google-chrome"]
+	path = google-chrome
+	url = https://aur.archlinux.org/google-chrome.git
