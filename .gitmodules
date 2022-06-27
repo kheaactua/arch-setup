@@ -35,3 +35,15 @@
 [submodule "google-chrome"]
 	path = google-chrome
 	url = https://aur.archlinux.org/google-chrome.git
+[submodule "i3lock-fancy-rapid-git"]
+	path = i3lock-fancy-rapid-git
+	url = https://aur.archlinux.org/i3lock-fancy-rapid-git.git
+[submodule "i3lock-color"]
+	path = i3lock-color
+	url = https://aur.archlinux.org/i3lock-color.git
+[submodule "capt-src"]
+	path = capt-src
+	url = https://aur.archlinux.org/capt-src.git
+[submodule "libglade"]
+	path = libglade
+	url = https://aur.archlinux.org/libglade.git
