@@ -47,3 +47,18 @@
 [submodule "libglade"]
 	path = libglade
 	url = https://aur.archlinux.org/libglade.git
+[submodule "gtklp"]
+	path = gtklp
+	url = https://aur.archlinux.org/gtklp.git
+[submodule "gcc9"]
+	path = gcc9
+	url = https://aur.archlinux.org/gcc9.git
+[submodule "cups-bjnp"]
+	path = cups-bjnp
+	url = https://aur.archlinux.org/cups-bjnp.git
+[submodule "cnijfilter-common"]
+	path = cnijfilter-common
+	url = https://aur.archlinux.org/cnijfilter-common.git
+[submodule "rofi-git"]
+	path = rofi-git
+	url = https://aur.archlinux.org/rofi-git.git
