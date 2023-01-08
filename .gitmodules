@@ -26,6 +26,7 @@
 [submodule "plex-media-server"]
 	path = plex-media-server
 	url = https://aur.archlinux.org/plex-media-server.git
+	branch = master
 [submodule "filebot"]
 	path = filebot
 	url = https://aur.archlinux.org/filebot.git
@@ -62,3 +63,6 @@
 [submodule "rofi-git"]
 	path = rofi-git
 	url = https://aur.archlinux.org/rofi-git.git
+[submodule "minecraft-bedrock-server"]
+	path = minecraft-bedrock-server
+	url = https://aur.archlinux.org/minecraft-bedrock-server.git
