@@ -66,3 +66,6 @@
 [submodule "minecraft-bedrock-server"]
 	path = minecraft-bedrock-server
 	url = https://aur.archlinux.org/minecraft-bedrock-server.git
+[submodule "torguard"]
+	path = torguard
+	url = https://aur.archlinux.org/torguard.git
