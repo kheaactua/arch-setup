@@ -69,3 +69,36 @@
 [submodule "torguard"]
 	path = torguard
 	url = https://aur.archlinux.org/torguard.git
+[submodule "zfs-linux-git"]
+	path = zfs-linux-git
+	url = https://aur.archlinux.org/zfs-linux-git.git
+[submodule "ttf-ms-win11-auto"]
+	path = ttf-ms-win11-auto
+	url = https://aur.archlinux.org/ttf-ms-win11-auto.git
+[submodule "httpdirfs"]
+	path = httpdirfs
+	url = https://aur.archlinux.org/httpdirfs.git
+[submodule "steamcmd"]
+	path = steamcmd
+	url = https://aur.archlinux.org/steamcmd.git
+[submodule "steamos-compositor"]
+	path = steamos-compositor
+	url = https://aur.archlinux.org/steamos-compositor.git
+[submodule "luxtorpeda-git"]
+	path = luxtorpeda-git
+	url = https://aur.archlinux.org/luxtorpeda-git.git
+[submodule "godot-headless-bin"]
+	path = godot-headless-bin
+	url = https://aur.archlinux.org/godot-headless-bin.git
+[submodule "protonup-qt"]
+	path = protonup-qt
+	url = https://aur.archlinux.org/protonup-qt.git
+[submodule "python-vdf"]
+	path = python-vdf
+	url = https://aur.archlinux.org/python-vdf.git
+[submodule "python-steam"]
+	path = python-steam
+	url = https://aur.archlinux.org/python-steam.git
+[submodule "python-inputs"]
+	path = python-inputs
+	url = https://aur.archlinux.org/python-inputs.git
