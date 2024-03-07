@@ -102,3 +102,18 @@
 [submodule "python-inputs"]
 	path = python-inputs
 	url = https://aur.archlinux.org/python-inputs.git
+[submodule "yay"]
+	path = yay
+	url = https://aur.archlinux.org/yay.git
+[submodule "pacaur"]
+	path = pacaur
+	url = https://aur.archlinux.org/pacaur.git
+[submodule "auracle-git"]
+	path = auracle-git
+	url = https://aur.archlinux.org/auracle-git.git
+[submodule "zfs-utils-git"]
+	path = zfs-utils-git
+	url = https://aur.archlinux.org/zfs-utils-git.git
+[submodule "zfs-dkms-git"]
+	path = zfs-dkms-git
+	url = https://aur.archlinux.org/zfs-dkms-git.git
